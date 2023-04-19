@@ -33,7 +33,7 @@ export const ContactBtn = styled.button`
 
   color: white;
   background-color: #7ca78c;
-  font-size: 26px;
+  font-size: 25px;
 
   display: flex;
   justify-content: center;
@@ -41,9 +41,10 @@ export const ContactBtn = styled.button`
 
   box-shadow: rgb(0 0 0 / 24%) 10px 10px 5px 0px;
   transition: all 0.2s ease-in-out;
+  
   :hover,
   :focus {
-    background-color: red;
+    background-color: rgb(234, 152, 11);
     color: #063a36;
     box-shadow: -2px -2px 5px #fff, 2px 2px 5px #8ba793;
   }

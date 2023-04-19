@@ -8,7 +8,7 @@ export const FilterLabel = styled.label`
   gap: 5px;
 `;
 export const FilterSpan = styled.span`
-  font-size: 18px;
+  font-size: 15px;
 `;
 
 export const FilterInput = styled.input`

@@ -4,14 +4,15 @@ export const FormLabel = styled.label`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
   
 `;
 
 export const LabelSpan = styled.span`
   margin-right: 10px;
-  font-weight: 500;
+  font-weight: 400;
+  font-size: 16px;
 `;
 
 export const BtnSubmit = styled.button`
